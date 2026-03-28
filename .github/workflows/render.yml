@@ -1,0 +1,30 @@
+name: Render and Deploy Quarto Site
+
+on:
+  push:
+    branches:
+      - main  # or "master", depending on your branch name
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render Quarto Site
+        uses: quarto-dev/quarto-actions/render@v2
+        with:
+          to: html
+
+      - name: Commit and Push rendered docs
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          git diff --cached --quiet || git commit -m "chore: render Quarto site to docs [skip ci]"
+          git push
