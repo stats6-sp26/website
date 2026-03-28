@@ -8,6 +8,7 @@ toc: false
 ```{r}
 #| echo: false
 #| fig-align: center
+#| fig-alt: "Course logo with a person icon shuffling five icons one with a bar plot, laptop, data, line plot, and a book. Below the person's icon is a text that reads introdata.science"
 knitr::include_graphics("img/logo.png")
 ```
 
