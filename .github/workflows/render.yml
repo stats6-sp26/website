@@ -1,40 +1,22 @@
-name: Render and Deploy Quarto Site
-
 on:
+  workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: main
 
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+name: Quarto Publish
 
 jobs:
-  render:
+  build-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up R
-        uses: r-lib/actions/setup-r@v2
-        with:
-          r-version: 'release'
-
-      - name: Install R packages
-        uses: r-lib/actions/setup-r-dependencies@v2
+      - name: Check out repository
+        uses: actions/checkout@v4 
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
 
-      - name: Render Quarto Site
-        uses: quarto-dev/quarto-actions/render@v2
+      - name: Render and Publish 
+        uses: quarto-dev/quarto-actions/publish@v2
         with:
-          to: html
-
-      - name: Commit and Push rendered docs
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/
-          git diff --cached --quiet || git commit -m "chore: render Quarto site to docs [skip ci]"
-          git push
+          target: quarto-pub
+          QUARTO_PUB_AUTH_TOKEN: ${{ secrets.QUARTO_PUB_AUTH_TOKEN }}
