@@ -5,7 +5,7 @@ project:
 website:
   title: IDS
   search: true
-  site-url: "{{< var course.site >}}"
+  site-url: "https://www.introdata.science/"
   navbar:
     logo: "img/logo.png"
     pinned: true
