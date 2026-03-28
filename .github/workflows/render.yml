@@ -3,14 +3,14 @@ name: Render and Deploy Quarto Site
 on:
   push:
     branches:
-      - main  # or "master", depending on your branch name
+      - main
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
   render:
     runs-on: ubuntu-latest
-     env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
