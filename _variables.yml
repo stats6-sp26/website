@@ -1,0 +1,44 @@
+author: Mine Dogucu
+institute: University of California Irvine
+department: Department of Statistics
+
+course:
+  code: STATS 6
+  short-title: Intro to DS
+  long-title: Introduction to Data Science
+  term: Spring
+  year: 2026
+  site: "https://www.introdata.science/"
+  github-org: "https://github.com/stats6-sp26"
+  discussion: "https://edstem.org/us/courses/97328"
+  lms: "https://canvas.eee.uci.edu/courses/82798/gradebook"
+  gradescope: "https://www.gradescope.com/courses/1287917"
+  homework: at 11:00 am on Mondays
+  midterm: Apr 29th at 11:00 am - 12:20 pm
+  proposal: May 8 at 5 pm
+  final-submission: Tue, Jun 9 at 1:00 PM
+  final-review: Tue, Jun 9, 1:30-3:30pm		
+  collab-location: "https://edstem.org/us/courses/87478/discussion/7059459"
+  classchat: "https://classchat.zotgpt.uci.edu/home/class/Dir0VlV8dwkvwlefmVanJS0o442WKa07vJ0a"
+  
+instructor:
+  name: "Dr. Mine Dogucu"
+  email: "mdogucu@uci.edu"
+  website: "https://www.minedogucu.com"
+  pronoun: "she/they"
+  photo: "img/mine-dogucu.jpeg"
+  audio: "mine-dogucu.mp3"
+  office-hours: "W 1:30 - 2:30 pm in person and online"
+  zoom: "https://uci.zoom.us/j/92687895023"
+  office : "DBH 2204"
+  
+  
+ta: 
+  name: Lynn Gao
+  email: "lmgao@uci.edu"
+  pronoun: "she/her"
+  audio: "ta.mp3"
+  office-hours: "M 9:30 - 10:30 am and Th 2:30pm - 3:30pm in person and online"
+  office: "TBD"
+  zoom: "TBD"
+  
