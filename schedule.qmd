@@ -11,6 +11,8 @@ library(tidyverse)
 ## Course specifics
 
 slides_repo <- "https://github.com/stats6-sp26/slides/"
+gradescope <- "https://www.gradescope.com/courses/1287917"
+
 ```
 
 
@@ -44,6 +46,27 @@ readr::read_csv(here::here("specific-content/schedule.csv")) |>
         "(",
         slides_repo, 
         slides, 
+        ")"
+        )
+      ),
+      assessment = case_when(
+      is.na(assessment) ~ paste0(fontawesome::fa("list-check", fill = "#e6ddd1")),
+      grepl("qmd", assessment) ~ paste0(
+        "[", 
+        fontawesome::fa("list-check"), 
+        "]",
+        "(specific-content/assessment/", 
+        assessment, 
+        ")"
+        ),
+      TRUE ~ paste0(
+        "[", 
+        fontawesome::fa("list-check"), 
+        "]",
+        "(",
+        gradescope, 
+        "/assignments/",
+        assessment, 
         ")"
         )
       ),
