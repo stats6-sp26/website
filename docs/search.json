@@ -4,7 +4,7 @@
     "href": "schedule.html",
     "title": "IDS",
     "section": "",
-    "text": "week\ndate\nsession\ntopic\nreading\nslides\nassessment\nother\n\n\n\n\n0\n28-Mar\n\nGetting Ready for STATS 6"
+    "text": "week\ndate\ntopic\nreading\nslides\nassessment\nother\n\n\n\n\n0\n28-Mar\nGetting Ready for STATS 6\n\n\n\n\n\n\n1\n30-Mar\nIntroduction to the Toolkit"
   },
   {
     "objectID": "specific-content/index/01a-course-description.html",
@@ -14,11 +14,18 @@
     "text": "This course introduces the full data cycle. Topics include data collection and retrieval, data cleaning, exploratory analysis and visualization, introduction to statistical modeling and inference, and communicating findings. Applications include real data from wide-range of fields following reproducible practices.\nPrerequisite: None"
   },
   {
-    "objectID": "specific-content/policies/03b-weights.html",
-    "href": "specific-content/policies/03b-weights.html",
-    "title": "IDS",
+    "objectID": "specific-content/readings/reading01a.html",
+    "href": "specific-content/readings/reading01a.html",
+    "title": "Reading for Lecture 1a",
     "section": "",
-    "text": "Component\n\n\nWeight\n\n\n\n\n\n\nIn-Class Quizzes\n\n\n10%\n\n\n\n\nHomework Assignments\n\n\n20%\n\n\n\n\nMidterm Exam\n\n\n30%\n\n\n\n\nProject\n\n\n40%"
+    "text": "Hello Data Science - Chapter 1"
+  },
+  {
+    "objectID": "specific-content/policies/reading01a.html",
+    "href": "specific-content/policies/reading01a.html",
+    "title": "Assessment for Week 0",
+    "section": "",
+    "text": "Let Us Know of Your GitHub Username Read the instructions in the provided link.\nIntroduce Yourself to the Teaching Team The responses to this “quiz” will not be available to your classmates. The quiz is not timed.\nIntroduce Yourself to Your Classmates This is a friendly class and this will be your first step in making friends in this class.\nGet Your Tech Ready The responses to this “quiz” will help us make sure that you are ready for the first class in terms of your technological needs. The quiz is not timed.\nSyllabus Quiz Read this course website in detail before attempting this quiz. Especially read the policies section. The quiz is not timed."
   },
   {
     "objectID": "specific-content/policies/03d-regrade.html",
@@ -166,6 +173,13 @@
     "title": "IDS",
     "section": "",
     "text": "It is my intent to design assessments that are a source of intellectual curiosity, joy, and learning rather than a source of stress. Assessments serve the purpose of measuring how much you have learned (i.e. how much you have achieved of the course goals). I would recommend you to first focus on your learning, then grades will follow.\n\nIn-Class Quizzes\nIn-Class quizzes are opportunity to practice as you are learning during the lectures. The questions will be asked sporadically throughout the lectures. You can discuss quiz questions with your neighbors in class, check notes, use internet etc. You will be graded for participation, not for correctness. You need to be attending the lecture and respond to all questions in order to receive the participation point. If you are not participating in lecture or have someone else participate for quizzes on your behalf, this will be considered academic misconduct. Note that during week zero we will have online quizzes which will be graded for correctness.\n\n\nHomework Assignments\nAt the end of Wednesday after weekly topics are completed you will be assigned a homework on these topics. You will have until the following lecture to finish the homework assignments. In other words, homework assignments will be due at 11:00 am on Mondays. For homework assignments, you can use books and notes, talk to other people in your class, use online resources including generative AI however there are some limitations. See ?@sec-ai.\n\n\nMidterm Exam\nMidterm exam will be held in-person, in-class on Apr 29th at 11:00 am - 12:20 pm. You will work individually on the exam. It will be a closed-book exam. You will not need a calculator and thus you will not be allowed to use one.\n\n\nProject\nYou will complete a project with a team mostly in the second half of the quarter. The project will consist of hands-on data analysis. You will apply the methods learned in this course to answer a question(s) that interests you. The project will have multiple components starting in the second half of the quarter. Two of the many components of the project is the proposal and the presentation. You are expected to submit a proposal by May 8 at 5 pm and submit a final video presentation, along with the final state of data analysis by Tue, Jun 9 at 1:00 PM. You will notice that our allocated final exam time for this class is Tue, Jun 9, 1:30-3:30pm. Since we do not have a final exam, during this time, you will be assigned to watch three other groups’ videos and evaluate them. Note that if we notice a big discrepancy in the amount of team members amount of work, then we hold the right to assign different grades to different team members."
+  },
+  {
+    "objectID": "specific-content/policies/03b-weights.html",
+    "href": "specific-content/policies/03b-weights.html",
+    "title": "IDS",
+    "section": "",
+    "text": "Component\n\n\nWeight\n\n\n\n\n\n\nIn-Class Quizzes\n\n\n10%\n\n\n\n\nHomework Assignments\n\n\n20%\n\n\n\n\nMidterm Exam\n\n\n30%\n\n\n\n\nProject\n\n\n40%"
   },
   {
     "objectID": "specific-content/index/01b-course-goals.html",

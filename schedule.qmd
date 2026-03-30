@@ -21,9 +21,6 @@ gradescope <- "https://www.gradescope.com/courses/1287917"
 #| message: false
 readr::read_csv(here::here("specific-content/schedule.csv")) |> 
   mutate(
-    session = if_else(
-      is.na(session), " ", session
-    ),
     reading = if_else(
       is.na(reading), 
       paste0(fontawesome::fa("book", fill = "#e6ddd1")),
