@@ -10,7 +10,7 @@ library(tidyverse)
 #| echo: false
 ## Course specifics
 
-slides_repo <- "https://github.com/stats6-sp26/slides/"
+slides_repo <- "https://stats6-sp26.github.io/slides/"
 gradescope <- "https://www.gradescope.com/courses/1287917"
 
 ```
