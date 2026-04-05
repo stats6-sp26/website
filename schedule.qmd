@@ -5,6 +5,7 @@
 library(tidyverse)
 ```
 
+In addition to what is shown on this table, there are weekly homework assignments in your personal GitHub repos.
 
 ```{r}
 #| echo: false
