@@ -4,7 +4,7 @@
     "href": "schedule.html",
     "title": "IDS",
     "section": "",
-    "text": "In addition to what is shown on this table, there are weekly homework assignments in your personal GitHub repos.\n\n\n\n\n\nweek\ndate\ntopic\nreading\nslides\nassessment\nother\n\n\n\n\n0\n28-Mar\nGetting Ready for STATS 6\n\n\n\n\n\n\n1\n30-Mar\nIntroduction to the Toolkit\n\n\n\n\n\n\n1\n1-Apr\nDescribing Data with Numbers\n\n\n\n\n\n\n2\n6-Apr\nData Visualization\n\n\n\n\n\n\n2\n8-Apr\nAccessible Data Visualizations"
+    "text": "In addition to what is shown on this table, there are weekly homework assignments in your personal GitHub repos.\n\n\n\n\n\nweek\ndate\ntopic\nreading\nslides\nassessment\nother\n\n\n\n\n0\n28-Mar\nGetting Ready for STATS 6\n\n\n\n\n\n\n1\n30-Mar\nIntroduction to the Toolkit\n\n\n\n\n\n\n1\n1-Apr\nDescribing Data with Numbers\n\n\n\n\n\n\n2\n6-Apr\nData Visualization\n\n\n\n\n\n\n2\n8-Apr\nAccessible Data Visualizations\n\n\n\n\n\n\n3\n13-Apr\nData Wrangling Part 1\n\n\n\n\n\n\n3\n15-Apr\nData Wrangling Part 2"
   },
   {
     "objectID": "specific-content/index/01a-course-description.html",
@@ -19,6 +19,13 @@
     "title": "Reading for Lecture 1a",
     "section": "",
     "text": "Hello Data Science - Chapter 1"
+  },
+  {
+    "objectID": "specific-content/readings/reading03a.html",
+    "href": "specific-content/readings/reading03a.html",
+    "title": "Reading for Lecture 3a",
+    "section": "",
+    "text": "Hello Data Science - Chapter 5"
   },
   {
     "objectID": "specific-content/readings/reading02b.html",
@@ -194,6 +201,13 @@
     "title": "Reading for Lecture 2a",
     "section": "",
     "text": "Hello Data Science - Chapter 3"
+  },
+  {
+    "objectID": "specific-content/readings/reading03b.html",
+    "href": "specific-content/readings/reading03b.html",
+    "title": "Reading for Lecture 3b",
+    "section": "",
+    "text": "R4DS - Chapter 19"
   },
   {
     "objectID": "specific-content/readings/reading01b.html",
