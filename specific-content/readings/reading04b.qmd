@@ -1,0 +1,8 @@
+---
+title: "Reading for Lecture 4b"
+---
+
+
+- [ ] [R4DS - Chapter 14](https://r4ds.hadley.nz/strings.html)
+- [ ] [R4DS - Chapter 17](https://r4ds.hadley.nz/datetimes.html)
+- [ ] [R4DS - Chapter 16](https://r4ds.hadley.nz/factors.html)

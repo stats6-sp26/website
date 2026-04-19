@@ -4,7 +4,7 @@
     "href": "schedule.html",
     "title": "IDS",
     "section": "",
-    "text": "In addition to what is shown on this table, there are weekly homework assignments in your personal GitHub repos.\n\n\n\n\n\nweek\ndate\ntopic\nreading\nslides\nassessment\nother\n\n\n\n\n0\n28-Mar\nGetting Ready for STATS 6\n\n\n\n\n\n\n1\n30-Mar\nIntroduction to the Toolkit\n\n\n\n\n\n\n1\n1-Apr\nDescribing Data with Numbers\n\n\n\n\n\n\n2\n6-Apr\nData Visualization\n\n\n\n\n\n\n2\n8-Apr\nAccessible Data Visualizations\n\n\n\n\n\n\n3\n13-Apr\nData Wrangling Part 1\n\n\n\n\n\n\n3\n15-Apr\nData Wrangling Part 2"
+    "text": "In addition to what is shown on this table, there are weekly homework assignments in your personal GitHub repos.\n\n\n\n\n\nweek\ndate\ntopic\nreading\nslides\nassessment\nother\n\n\n\n\n0\n28-Mar\nGetting Ready for STATS 6\n\n\n\n\n\n\n1\n30-Mar\nIntroduction to the Toolkit\n\n\n\n\n\n\n1\n1-Apr\nDescribing Data with Numbers\n\n\n\n\n\n\n2\n6-Apr\nData Visualization\n\n\n\n\n\n\n2\n8-Apr\nAccessible Data Visualizations\n\n\n\n\n\n\n3\n13-Apr\nData Wrangling Part 1\n\n\n\n\n\n\n3\n15-Apr\nData Wrangling Part 2\n\n\n\n\n\n\n4\n20-Apr\nGood Workflow Practices\n\n\n\n\n\n\n4\n22-Apr\nWorking with Strings, Dates, and Factors"
   },
   {
     "objectID": "specific-content/index/01a-course-description.html",
@@ -33,6 +33,13 @@
     "title": "Reading for Lecture 2b",
     "section": "",
     "text": "Hello Data Science - Chapter 4"
+  },
+  {
+    "objectID": "specific-content/readings/reading04a.html",
+    "href": "specific-content/readings/reading04a.html",
+    "title": "Reading for Lecture 4a",
+    "section": "",
+    "text": "Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). Good enough practices in scientific computing. PLoS computational biology, 13(6), e1005510."
   },
   {
     "objectID": "specific-content/policies/03b-weights.html",
@@ -194,6 +201,13 @@
     "title": "Assessment for Week 0",
     "section": "",
     "text": "Let Us Know of Your GitHub Username Read the instructions in the provided link.\nIntroduce Yourself to the Teaching Team The responses to this “quiz” will not be available to your classmates. The quiz is not timed.\nIntroduce Yourself to Your Classmates This is a friendly class and this will be your first step in making friends in this class.\nGet Your Tech Ready The responses to this “quiz” will help us make sure that you are ready for the first class in terms of your technological needs. The quiz is not timed.\nSyllabus Quiz Read this course website in detail before attempting this quiz. Especially read the policies section. The quiz is not timed."
+  },
+  {
+    "objectID": "specific-content/readings/reading04b.html",
+    "href": "specific-content/readings/reading04b.html",
+    "title": "Reading for Lecture 4b",
+    "section": "",
+    "text": "R4DS - Chapter 14\nR4DS - Chapter 17\nR4DS - Chapter 16"
   },
   {
     "objectID": "specific-content/readings/reading02a.html",
