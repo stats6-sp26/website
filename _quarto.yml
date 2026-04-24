@@ -11,7 +11,7 @@ website:
     logo-alt: Course logo with a person icon shuffling five icons one with a bar plot, laptop, data, line plot, and a book. Below the person's icon is a text that reads introdata.science
     pinned: true
     background: whitesmoke
-    foreground: "#ae8f68"
+    foreground: "#333333"
     left:
       - href: "index.qmd"
         text: "{{< fa home >}} Home"      

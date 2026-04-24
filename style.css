@@ -46,3 +46,15 @@ a:focus {
     font-weight: bold;
 }
 
+.navbar .nav-link {
+  color: #333333 !important; 
+}
+
+.navbar .nav-link:hover {
+  color: var(--accent-color) !important;
+}
+
+.navbar .nav-link.active {
+  color: var(--accent-color) !important;
+  font-weight: 600;
+}
