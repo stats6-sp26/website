@@ -214,6 +214,18 @@ ul.task-list li input[type="checkbox"] {
 
 </main> <!-- /main -->
 <script defer="" data-domain="introdata.science" src="https://plausible.io/js/script.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  // Find any element with role="menu" that doesn't have menuitem children
+  var menus = document.querySelectorAll('[role="menu"]');
+  menus.forEach(function(menu) {
+    if (!menu.querySelector('[role="menuitem"], [role="menuitemcheckbox"], [role="menuitemradio"]')) {
+      // Remove the role because it's a navigation list, not an app menu
+      menu.removeAttribute('role');
+    }
+  });
+});
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
