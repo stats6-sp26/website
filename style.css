@@ -46,15 +46,19 @@ a:focus {
     font-weight: bold;
 }
 
-.navbar .nav-link {
-  color: #333333 !important; 
-}
-
-.navbar .nav-link:hover {
-  color: var(--accent-color) !important;
-}
 
 .navbar .nav-link.active {
-  color: var(--accent-color) !important;
-  font-weight: 600;
+    color: #cb4e31 !important; 
+    background-color: #ffffff !important; 
+    font-weight: 700 !important; 
+    border-bottom: 2px solid #cb4e31; 
+}
+
+.navbar .nav-link.active:hover {
+    color: #a33b22 !important; 
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link.active {
+    opacity: 1 !important;
 }
