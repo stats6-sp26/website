@@ -47,18 +47,22 @@ a:focus {
 }
 
 
-.navbar .nav-link.active {
-    color: #cb4e31 !important; 
-    background-color: #ffffff !important; 
-    font-weight: 700 !important; 
-    border-bottom: 2px solid #cb4e31; 
-}
-
-.navbar .nav-link.active:hover {
-    color: #a33b22 !important; 
-}
 
 .navbar-light .navbar-nav .nav-link.active,
-.navbar-dark .navbar-nav .nav-link.active {
+.navbar-light .navbar-nav .show > .nav-link,
+.navbar-light .navbar-nav .nav-link:focus,
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #cb4e31 !important; 
+    background-color: transparent !important;
+    font-weight: 800 !important; 
+    opacity: 1 !important; 
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #222222 !important; 
     opacity: 1 !important;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+    border-bottom: 3px solid #cb4e31 !important;
 }
