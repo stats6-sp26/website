@@ -26,46 +26,31 @@ readr::read_csv(here::here("specific-content/schedule.csv")) |>
       is.na(reading), 
       "",
       paste0(
-        "[", 
+        '<a href="specific-content/readings/', reading, '" aria-label="Reading for this
+        lecture">',
         fontawesome::fa("book"), 
-        "]",
-        "(specific-content/readings/", 
-        reading, 
-        ")"
+        '</a>'
         )
       ),
     slides = if_else(
       is.na(slides), 
       "",
-      paste0(
-        "[", 
+      paste0('<a href="', slides_repo, slides, '" aria-label="Lecture slides">',
         fontawesome::fa("laptop"), 
-        "]",
-        "(",
-        slides_repo, 
-        slides, 
-        ")"
+        '</a>'
         )
       ),
       assessment = case_when(
       is.na(assessment) ~ paste0(""),
       grepl("qmd", assessment) ~ paste0(
-        "[", 
+      '<a href="specific-content/assessment/', assessment, '" aria-label="Assessment 
+      instructions">',
         fontawesome::fa("list-check"), 
-        "]",
-        "(specific-content/assessment/", 
-        assessment, 
-        ")"
+        '</a>'
         ),
-      TRUE ~ paste0(
-        "[", 
+      TRUE ~ paste0('<a href="', gradescope, '/assignments/', assessment, '" aria-label="Submit on Gradescope">',
         fontawesome::fa("list-check"), 
-        "]",
-        "(",
-        gradescope, 
-        "/assignments/",
-        assessment, 
-        ")"
+        '</a>'
         )
       ),
      other = if_else(

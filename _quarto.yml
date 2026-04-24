@@ -28,14 +28,19 @@ website:
     right:
     - icon: github
       href: "{{< var course.github-org >}}"
+      aria-label: "GitHub Organization"
     - icon: robot
       href: "{{< var course.classchat >}}"
+      aria-label: "Class Chat"
     - icon: patch-question
       href: "{{< var course.discussion >}}"
+      aria-label: "Discussion"
     - icon: calculator
       href: "{{< var course.lms >}}"
+      aria-label: "Gradebook"
     - icon: bar-chart-steps
       href: "{{< var course.gradescope >}}"
+      aria-label: "Gradescope"
   
   
   page-footer:
