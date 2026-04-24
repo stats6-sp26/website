@@ -24,7 +24,7 @@ readr::read_csv(here::here("specific-content/schedule.csv")) |>
   mutate(
     reading = if_else(
       is.na(reading), 
-      paste0(fontawesome::fa("book", fill = "#e6ddd1")),
+      "",
       paste0(
         "[", 
         fontawesome::fa("book"), 
@@ -36,7 +36,7 @@ readr::read_csv(here::here("specific-content/schedule.csv")) |>
       ),
     slides = if_else(
       is.na(slides), 
-      paste0(fontawesome::fa("laptop", fill = "#e6ddd1")),
+      "",
       paste0(
         "[", 
         fontawesome::fa("laptop"), 
@@ -48,7 +48,7 @@ readr::read_csv(here::here("specific-content/schedule.csv")) |>
         )
       ),
       assessment = case_when(
-      is.na(assessment) ~ paste0(fontawesome::fa("list-check", fill = "#e6ddd1")),
+      is.na(assessment) ~ paste0(""),
       grepl("qmd", assessment) ~ paste0(
         "[", 
         fontawesome::fa("list-check"), 
@@ -70,7 +70,7 @@ readr::read_csv(here::here("specific-content/schedule.csv")) |>
       ),
      other = if_else(
       is.na(other), 
-      paste0(fontawesome::fa("note-sticky", fill = "#e6ddd1")),
+      "",
       paste0(
         "[", 
         fontawesome::fa("note-sticky"), 
