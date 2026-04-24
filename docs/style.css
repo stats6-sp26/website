@@ -108,3 +108,24 @@ blockquote p {
 .blockquote {
     color: #222222 !important;
 }
+
+/* --- TOC Active Item Contrast Fix --- */
+
+/* 1. Target the active link in the TOC */
+.sidebar nav[role="doc-toc"] ul > li > a.active {
+    color: #b33517 !important; /* High-contrast version of your brand red */
+    border-left: 2px solid #b33517 !important; /* High-contrast indicator line */
+    font-weight: 600 !important;
+    opacity: 1 !important;
+}
+
+/* 2. Fix the hover state for TOC items */
+.sidebar nav[role="doc-toc"] ul > li > a:hover {
+    color: #b33517 !important;
+    text-decoration: underline !important;
+}
+
+/* 3. Ensure the inactive items are dark enough (at least #767676) */
+.sidebar nav[role="doc-toc"] ul > li > a {
+    color: #444444 !important; /* Dark grey for standard TOC links */
+}
