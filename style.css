@@ -66,3 +66,26 @@ a:focus {
 .navbar-light .navbar-nav .nav-link.active {
     border-bottom: 3px solid #cb4e31 !important;
 }
+
+/* --- High Contrast Fix for Content Links (Email, Zoom, etc.) --- */
+
+/* Target links within the main content area to ensure they are readable */
+#quarto-content a:not(.nav-link) {
+    color: #b33517 !important; /* Darker red for a guaranteed 4.5:1+ contrast ratio */
+    text-decoration: underline; /* Keeps the non-color indicator for accessibility */
+    font-weight: 500; /* Slightly medium weight makes the color easier to see */
+}
+
+#quarto-content a:not(.nav-link):hover {
+    color: #8a2a12 !important; /* Darker shade on hover */
+    text-decoration: none;
+}
+
+/* Specific fix for Font Awesome icons inside links */
+/* Sometimes icons look lighter than text; this ensures they match the link color */
+#quarto-content a .fa, 
+#quarto-content a .fas, 
+#quarto-content a .fa-solid {
+    color: inherit !important;
+    opacity: 1 !important;
+}
