@@ -4,7 +4,7 @@
     "href": "schedule.html",
     "title": "IDS",
     "section": "",
-    "text": "In addition to what is shown on this table, there are weekly homework assignments in your personal GitHub repos.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nweek\ndate\ntopic\nreading\nslides\nassessment\nother\n\n\n\n\n0\n28-Mar\nGetting Ready for STATS 6\n\n\n\n\n\n\n1\n30-Mar\nIntroduction to the Toolkit\n\n\n\n\n\n\n1\n1-Apr\nDescribing Data with Numbers\n\n\n\n\n\n\n2\n6-Apr\nData Visualization\n\n\n\n\n\n\n2\n8-Apr\nAccessible Data Visualizations\n\n\n\n\n\n\n3\n13-Apr\nData Wrangling Part 1\n\n\n\n\n\n\n3\n15-Apr\nData Wrangling Part 2\n\n\n\n\n\n\n4\n20-Apr\nGood Workflow Practices\n\n\n\n\n\n\n4\n22-Apr\nWorking with Strings, Dates, and Factors\n\n\n\n\n\n\n5\n27-Apr\nWeb Scraping\n\n\n\n\n\n\n5\n29-Apr\nMidterm in class"
+    "text": "In addition to what is shown on this table, there are weekly homework assignments in your personal GitHub repos.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nweek\ndate\ntopic\nreading\nslides\nassessment\nother\n\n\n\n\n0\n28-Mar\nGetting Ready for STATS 6\n\n\n\n\n\n\n1\n30-Mar\nIntroduction to the Toolkit\n\n\n\n\n\n\n1\n1-Apr\nDescribing Data with Numbers\n\n\n\n\n\n\n2\n6-Apr\nData Visualization\n\n\n\n\n\n\n2\n8-Apr\nAccessible Data Visualizations\n\n\n\n\n\n\n3\n13-Apr\nData Wrangling Part 1\n\n\n\n\n\n\n3\n15-Apr\nData Wrangling Part 2\n\n\n\n\n\n\n4\n20-Apr\nGood Workflow Practices\n\n\n\n\n\n\n4\n22-Apr\nWorking with Strings, Dates, and Factors\n\n\n\n\n\n\n5\n27-Apr\nWeb Scraping\n\n\n\n\n\n\n5\n29-Apr\nMidterm in class\n\n\n\n\n\n\n6\n4-May\nFoundations of Statistical Inference\n\n\n\n\n\n\n6\n6-May\nBeta-Binomial Model"
   },
   {
     "objectID": "specific-content/index/01a-course-description.html",
@@ -14,102 +14,60 @@
     "text": "This course introduces the full data cycle. Topics include data collection and retrieval, data cleaning, exploratory analysis and visualization, introduction to statistical modeling and inference, and communicating findings. Applications include real data from wide-range of fields following reproducible practices.\nPrerequisite: None"
   },
   {
-    "objectID": "specific-content/readings/reading01a.html",
-    "href": "specific-content/readings/reading01a.html",
-    "title": "Reading for Lecture 1a",
+    "objectID": "specific-content/readings/reading06b.html",
+    "href": "specific-content/readings/reading06b.html",
+    "title": "OPTIONAL Reading for Lecture 6b",
     "section": "",
-    "text": "Hello Data Science - Chapter 1"
+    "text": "Bayes Rules! book - Chapter 3\nBayes Rules! book - Chapter 4"
   },
   {
-    "objectID": "specific-content/readings/reading03a.html",
-    "href": "specific-content/readings/reading03a.html",
-    "title": "Reading for Lecture 3a",
+    "objectID": "specific-content/readings/reading01b.html",
+    "href": "specific-content/readings/reading01b.html",
+    "title": "Reading for Lecture 1b",
     "section": "",
-    "text": "Hello Data Science - Chapter 5"
+    "text": "Hello Data Science - Chapter 2"
   },
   {
-    "objectID": "specific-content/readings/reading02b.html",
-    "href": "specific-content/readings/reading02b.html",
-    "title": "Reading for Lecture 2b",
+    "objectID": "specific-content/readings/reading03b.html",
+    "href": "specific-content/readings/reading03b.html",
+    "title": "Reading for Lecture 3b",
     "section": "",
-    "text": "Hello Data Science - Chapter 4"
+    "text": "R4DS - Chapter 19"
   },
   {
-    "objectID": "specific-content/readings/reading04a.html",
-    "href": "specific-content/readings/reading04a.html",
-    "title": "Reading for Lecture 4a",
+    "objectID": "specific-content/readings/reading02a.html",
+    "href": "specific-content/readings/reading02a.html",
+    "title": "Reading for Lecture 2a",
     "section": "",
-    "text": "Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). Good enough practices in scientific computing. PLoS computational biology, 13(6), e1005510."
+    "text": "Hello Data Science - Chapter 3"
   },
   {
-    "objectID": "specific-content/policies/03b-weights.html",
-    "href": "specific-content/policies/03b-weights.html",
+    "objectID": "specific-content/readings/reading04b.html",
+    "href": "specific-content/readings/reading04b.html",
+    "title": "Reading for Lecture 4b",
+    "section": "",
+    "text": "R4DS - Chapter 14\nR4DS - Chapter 17\nR4DS - Chapter 16"
+  },
+  {
+    "objectID": "specific-content/policies/reading01a.html",
+    "href": "specific-content/policies/reading01a.html",
+    "title": "Assessment for Week 0",
+    "section": "",
+    "text": "Let Us Know of Your GitHub Username Read the instructions in the provided link.\nIntroduce Yourself to the Teaching Team The responses to this “quiz” will not be available to your classmates. The quiz is not timed.\nIntroduce Yourself to Your Classmates This is a friendly class and this will be your first step in making friends in this class.\nGet Your Tech Ready The responses to this “quiz” will help us make sure that you are ready for the first class in terms of your technological needs. The quiz is not timed.\nSyllabus Quiz Read this course website in detail before attempting this quiz. Especially read the policies section. The quiz is not timed."
+  },
+  {
+    "objectID": "specific-content/policies/03d-regrade.html",
+    "href": "specific-content/policies/03d-regrade.html",
     "title": "IDS",
     "section": "",
-    "text": "Component\n\n\nWeight\n\n\n\n\n\n\nIn-Class Quizzes\n\n\n10%\n\n\n\n\nHomework Assignments\n\n\n20%\n\n\n\n\nMidterm Exam\n\n\n30%\n\n\n\n\nProject\n\n\n40%"
+    "text": "While we will try our best to make sure that your grade is correct, it is possible for us to make minor mistakes in grading unfortunately. Thus, we strongly encourage you to go over your assignments to check for the correctness of your grade. You should immediately notify us if there are any errors. For all assignments other than the final, you have one-week after receiving feedback and grade from us to ask for regrading to correct any errors. For assignments on Gradescope you can send regrade requests directly within Gradescope. For others, you can email your TA and add me to CC field of the email. Note that the grade on Canvas Gradebook will be the official grade and you should check for its correctness."
   },
   {
-    "objectID": "specific-content/policies/03a-assessment.html",
-    "href": "specific-content/policies/03a-assessment.html",
-    "title": "IDS",
+    "objectID": "specific-content/assessment/assessment00.html",
+    "href": "specific-content/assessment/assessment00.html",
+    "title": "Assessment for Week 0",
     "section": "",
-    "text": "It is my intent to design assessments that are a source of intellectual curiosity, joy, and learning rather than a source of stress. Assessments serve the purpose of measuring how much you have learned (i.e. how much you have achieved of the course goals). I would recommend you to first focus on your learning, then grades will follow.\n\nIn-Class Quizzes\nIn-Class quizzes are opportunity to practice as you are learning during the lectures. The questions will be asked sporadically throughout the lectures. You can discuss quiz questions with your neighbors in class, check notes, use internet etc. You will be graded for participation, not for correctness. You need to be attending the lecture and respond to all questions in order to receive the participation point. If you are not participating in lecture or have someone else participate for quizzes on your behalf, this will be considered academic misconduct. Note that during week zero we will have online quizzes which will be graded for correctness.\n\n\nHomework Assignments\nAt the end of Wednesday after weekly topics are completed you will be assigned a homework on these topics. You will have until the following lecture to finish the homework assignments. In other words, homework assignments will be due at 11:00 am on Mondays. For homework assignments, you can use books and notes, talk to other people in your class, use online resources including generative AI however there are some limitations. See ?@sec-ai.\n\n\nMidterm Exam\nMidterm exam will be held in-person, in-class on Apr 29th at 11:00 am - 12:20 pm. You will work individually on the exam. It will be a closed-book exam. You will not need a calculator and thus you will not be allowed to use one.\n\n\nProject\nYou will complete a project with a team mostly in the second half of the quarter. The project will consist of hands-on data analysis. You will apply the methods learned in this course to answer a question(s) that interests you. The project will have multiple components starting in the second half of the quarter. Two of the many components of the project is the proposal and the presentation. You are expected to submit a proposal by May 8 at 5 pm and submit a final video presentation, along with the final state of data analysis by Tue, Jun 9 at 1:00 PM. You will notice that our allocated final exam time for this class is Tue, Jun 9, 1:30-3:30pm. Since we do not have a final exam, during this time, you will be assigned to watch three other groups’ videos and evaluate them. Note that if we notice a big discrepancy in the amount of team members amount of work, then we hold the right to assign different grades to different team members."
-  },
-  {
-    "objectID": "specific-content/policies/03c-late-policy.html",
-    "href": "specific-content/policies/03c-late-policy.html",
-    "title": "IDS",
-    "section": "",
-    "text": "Late work is not accepted except for homework assignments. Every student will be excused ONCE up to 48 hours late submission. You do not need to email the reader (aka grader) about this. For students who have already used their late submission excuse once, then the following late penalty will apply.\nOn homework assignments if the submission is later than the due date and time, then 25% of the achieved total grade will be deducted for every 12 hours that the submission is late. For example, if you were to get 12 points out of 15 on a homework assignment and you submitted 15 hours late then your score would be 6 points. It is recommended that you start working on the homework early and not leave it until the last minute to avoid any technological or personal issues. Starting early would also give you ample opportunity to attend office hours.\nIt is possible that during the quarter, other events may affect your learning. This can be but not limited to sickness, religious holiday, attending a conference, playing professional sports, feeling down, flat tire, roommate issues, canceled/delayed flight, wanting to/needing to travel, or any other reason you can think of. In such cases, you will be excused from two in-class quizzes with no questions asked. You do not need to email me about it. I would advise you to be mindful of that there are only 2 excused allowances for missing the quizzes. That already makes up about 10% of the quarter. Anything beyond 2 excused absences will be assigned zero. If you have an event going in your life that impacts your learning more than a week then I would advise you to talk to me (without waiting for the end of the quarter) to discuss your options. It’s best to discuss such high impact events during office hours.\nMidterm and project are required components of the class and cannot be excused. For any needs regarding these assignments you can discuss it with me in a timely manner."
-  },
-  {
-    "objectID": "people.html",
-    "href": "people.html",
-    "title": "IDS",
-    "section": "",
-    "text": "Instructor\n Dr. Mine Dogucu\nshe/they mdogucu@uci.edu \nOffice Hours:  W 1:30 - 2:30 pm in person and online\n DBH 2204\n Zoom\n\n\n\nTeaching Assistant (TA)\n Lynn Gao\nshe/her lmgao@uci.edu\n\nOffice Hours:  M 9:30 - 10:30 am and Th 2:00pm - 3:00pm in person and online\n DBH 2013\n Zoom"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "IDS",
-    "section": "",
-    "text": "Welcome to STATS 6 - Introduction to Data Science in Spring 2026\nThis course introduces the full data cycle. Topics include data collection and retrieval, data cleaning, exploratory analysis and visualization, introduction to statistical modeling and inference, and communicating findings. Applications include real data from wide-range of fields following reproducible practices.\nPrerequisite: None\nMidterm exam on Apr 29th at 11:00 am - 12:20 pm in class\nProject proposal due May 8 at 5 pm online\nProject submission due Tue, Jun 9 at 1:00 PM online\nProject peer evaluation on Tue, Jun 9, 1:30-3:30pm online"
-  },
-  {
-    "objectID": "index.html#weekly-calendar",
-    "href": "index.html#weekly-calendar",
-    "title": "IDS",
-    "section": "Weekly Calendar",
-    "text": "Weekly Calendar"
-  },
-  {
-    "objectID": "tools.html",
-    "href": "tools.html",
-    "title": "IDS",
-    "section": "",
-    "text": "We will use three main textbooks for the course all of which are freely available online. You will not be expected to purchase paper copies.\nHello Data Science: A Friendly Introduction with Applications by Mine Doğucu, Catalina Medina, and Alma Castro\nModern Data Science with R by Benjamin S. Baumer, Daniel T. Kaplan, and Nicholas J. Horton.\nR for Data Science by Hadley Wickham, Mine Cetinkaya-Rundel, and Garrett Grolemund"
-  },
-  {
-    "objectID": "tools.html#textbook",
-    "href": "tools.html#textbook",
-    "title": "IDS",
-    "section": "",
-    "text": "We will use three main textbooks for the course all of which are freely available online. You will not be expected to purchase paper copies.\nHello Data Science: A Friendly Introduction with Applications by Mine Doğucu, Catalina Medina, and Alma Castro\nModern Data Science with R by Benjamin S. Baumer, Daniel T. Kaplan, and Nicholas J. Horton.\nR for Data Science by Hadley Wickham, Mine Cetinkaya-Rundel, and Garrett Grolemund"
-  },
-  {
-    "objectID": "tools.html#programming-tools",
-    "href": "tools.html#programming-tools",
-    "title": "IDS",
-    "section": "Programming Tools",
-    "text": "Programming Tools\nR and RStudio We will use the R language which is a popular programming language used by statisticians and data scientists. We will use RStudio interface while using the R language.\nGit and GitHub We will use GitHub for version control with git. We will soon learn what version control means."
-  },
-  {
-    "objectID": "tools.html#other-software",
-    "href": "tools.html#other-software",
-    "title": "IDS",
-    "section": "Other Software",
-    "text": "Other Software\nWe will use an online forum where you can ask and answer questions. Please read guidelines for the online forum. I will also make announcement using this forum. It is your responsibility to check the forum on a regular basis thus make sure to have appropriate notifications turned on.\nWe will use Gradescope for some of the assignments. You will get instructions on how to use Gradescope.\nWe will use Canvas for keeping track of grades.\nIf you are not on campus, you will need to connect through VPN to access resources that are only accessible on campus. Follow the instructions on the link."
+    "text": "Let Us Know of Your GitHub Username Read the instructions in the provided link.\nIntroduce Yourself to the Teaching Team The responses to this “quiz” will not be available to your classmates. The quiz is not timed.\nIntroduce Yourself to Your Classmates This is a friendly class and this will be your first step in making friends in this class.\nGet Your Tech Ready The responses to this “quiz” will help us make sure that you are ready for the first class in terms of your technological needs. The quiz is not timed.\nSyllabus Quiz Read this course website in detail before attempting this quiz. Especially read the policies section. The quiz is not timed."
   },
   {
     "objectID": "policies.html",
@@ -182,53 +140,102 @@
     "text": "Subject to Change\nEverything on the syllabus is subject to change depending on any unexpected circumstances that might arise during the quarter. I hold the right to make modifications in a way to improve the learning process of student(s)."
   },
   {
-    "objectID": "specific-content/assessment/assessment00.html",
-    "href": "specific-content/assessment/assessment00.html",
-    "title": "Assessment for Week 0",
-    "section": "",
-    "text": "Let Us Know of Your GitHub Username Read the instructions in the provided link.\nIntroduce Yourself to the Teaching Team The responses to this “quiz” will not be available to your classmates. The quiz is not timed.\nIntroduce Yourself to Your Classmates This is a friendly class and this will be your first step in making friends in this class.\nGet Your Tech Ready The responses to this “quiz” will help us make sure that you are ready for the first class in terms of your technological needs. The quiz is not timed.\nSyllabus Quiz Read this course website in detail before attempting this quiz. Especially read the policies section. The quiz is not timed."
-  },
-  {
-    "objectID": "specific-content/policies/03d-regrade.html",
-    "href": "specific-content/policies/03d-regrade.html",
+    "objectID": "tools.html",
+    "href": "tools.html",
     "title": "IDS",
     "section": "",
-    "text": "While we will try our best to make sure that your grade is correct, it is possible for us to make minor mistakes in grading unfortunately. Thus, we strongly encourage you to go over your assignments to check for the correctness of your grade. You should immediately notify us if there are any errors. For all assignments other than the final, you have one-week after receiving feedback and grade from us to ask for regrading to correct any errors. For assignments on Gradescope you can send regrade requests directly within Gradescope. For others, you can email your TA and add me to CC field of the email. Note that the grade on Canvas Gradebook will be the official grade and you should check for its correctness."
+    "text": "We will use three main textbooks for the course all of which are freely available online. You will not be expected to purchase paper copies.\nHello Data Science: A Friendly Introduction with Applications by Mine Doğucu, Catalina Medina, and Alma Castro\nModern Data Science with R by Benjamin S. Baumer, Daniel T. Kaplan, and Nicholas J. Horton.\nR for Data Science by Hadley Wickham, Mine Cetinkaya-Rundel, and Garrett Grolemund"
   },
   {
-    "objectID": "specific-content/policies/reading01a.html",
-    "href": "specific-content/policies/reading01a.html",
-    "title": "Assessment for Week 0",
+    "objectID": "tools.html#textbook",
+    "href": "tools.html#textbook",
+    "title": "IDS",
     "section": "",
-    "text": "Let Us Know of Your GitHub Username Read the instructions in the provided link.\nIntroduce Yourself to the Teaching Team The responses to this “quiz” will not be available to your classmates. The quiz is not timed.\nIntroduce Yourself to Your Classmates This is a friendly class and this will be your first step in making friends in this class.\nGet Your Tech Ready The responses to this “quiz” will help us make sure that you are ready for the first class in terms of your technological needs. The quiz is not timed.\nSyllabus Quiz Read this course website in detail before attempting this quiz. Especially read the policies section. The quiz is not timed."
+    "text": "We will use three main textbooks for the course all of which are freely available online. You will not be expected to purchase paper copies.\nHello Data Science: A Friendly Introduction with Applications by Mine Doğucu, Catalina Medina, and Alma Castro\nModern Data Science with R by Benjamin S. Baumer, Daniel T. Kaplan, and Nicholas J. Horton.\nR for Data Science by Hadley Wickham, Mine Cetinkaya-Rundel, and Garrett Grolemund"
   },
   {
-    "objectID": "specific-content/readings/reading04b.html",
-    "href": "specific-content/readings/reading04b.html",
-    "title": "Reading for Lecture 4b",
-    "section": "",
-    "text": "R4DS - Chapter 14\nR4DS - Chapter 17\nR4DS - Chapter 16"
+    "objectID": "tools.html#programming-tools",
+    "href": "tools.html#programming-tools",
+    "title": "IDS",
+    "section": "Programming Tools",
+    "text": "Programming Tools\nR and RStudio We will use the R language which is a popular programming language used by statisticians and data scientists. We will use RStudio interface while using the R language.\nGit and GitHub We will use GitHub for version control with git. We will soon learn what version control means."
   },
   {
-    "objectID": "specific-content/readings/reading02a.html",
-    "href": "specific-content/readings/reading02a.html",
-    "title": "Reading for Lecture 2a",
-    "section": "",
-    "text": "Hello Data Science - Chapter 3"
+    "objectID": "tools.html#other-software",
+    "href": "tools.html#other-software",
+    "title": "IDS",
+    "section": "Other Software",
+    "text": "Other Software\nWe will use an online forum where you can ask and answer questions. Please read guidelines for the online forum. I will also make announcement using this forum. It is your responsibility to check the forum on a regular basis thus make sure to have appropriate notifications turned on.\nWe will use Gradescope for some of the assignments. You will get instructions on how to use Gradescope.\nWe will use Canvas for keeping track of grades.\nIf you are not on campus, you will need to connect through VPN to access resources that are only accessible on campus. Follow the instructions on the link."
   },
   {
-    "objectID": "specific-content/readings/reading03b.html",
-    "href": "specific-content/readings/reading03b.html",
-    "title": "Reading for Lecture 3b",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "IDS",
     "section": "",
-    "text": "R4DS - Chapter 19"
+    "text": "Welcome to STATS 6 - Introduction to Data Science in Spring 2026\nThis course introduces the full data cycle. Topics include data collection and retrieval, data cleaning, exploratory analysis and visualization, introduction to statistical modeling and inference, and communicating findings. Applications include real data from wide-range of fields following reproducible practices.\nPrerequisite: None\nMidterm exam on Apr 29th at 11:00 am - 12:20 pm in class\nProject proposal due May 8 at 5 pm online\nProject submission due Tue, Jun 9 at 1:00 PM online\nProject peer evaluation on Tue, Jun 9, 1:30-3:30pm online"
   },
   {
-    "objectID": "specific-content/readings/reading01b.html",
-    "href": "specific-content/readings/reading01b.html",
-    "title": "Reading for Lecture 1b",
+    "objectID": "index.html#weekly-calendar",
+    "href": "index.html#weekly-calendar",
+    "title": "IDS",
+    "section": "Weekly Calendar",
+    "text": "Weekly Calendar"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "IDS",
     "section": "",
-    "text": "Hello Data Science - Chapter 2"
+    "text": "Instructor\n Dr. Mine Dogucu\nshe/they mdogucu@uci.edu \nOffice Hours:  W 1:30 - 2:30 pm in person and online\n DBH 2204\n Zoom\n\n\n\nTeaching Assistant (TA)\n Lynn Gao\nshe/her lmgao@uci.edu\n\nOffice Hours:  M 9:30 - 10:30 am and Th 2:00pm - 3:00pm in person and online\n DBH 2013\n Zoom"
+  },
+  {
+    "objectID": "specific-content/policies/03c-late-policy.html",
+    "href": "specific-content/policies/03c-late-policy.html",
+    "title": "IDS",
+    "section": "",
+    "text": "Late work is not accepted except for homework assignments. Every student will be excused ONCE up to 48 hours late submission. You do not need to email the reader (aka grader) about this. For students who have already used their late submission excuse once, then the following late penalty will apply.\nOn homework assignments if the submission is later than the due date and time, then 25% of the achieved total grade will be deducted for every 12 hours that the submission is late. For example, if you were to get 12 points out of 15 on a homework assignment and you submitted 15 hours late then your score would be 6 points. It is recommended that you start working on the homework early and not leave it until the last minute to avoid any technological or personal issues. Starting early would also give you ample opportunity to attend office hours.\nIt is possible that during the quarter, other events may affect your learning. This can be but not limited to sickness, religious holiday, attending a conference, playing professional sports, feeling down, flat tire, roommate issues, canceled/delayed flight, wanting to/needing to travel, or any other reason you can think of. In such cases, you will be excused from two in-class quizzes with no questions asked. You do not need to email me about it. I would advise you to be mindful of that there are only 2 excused allowances for missing the quizzes. That already makes up about 10% of the quarter. Anything beyond 2 excused absences will be assigned zero. If you have an event going in your life that impacts your learning more than a week then I would advise you to talk to me (without waiting for the end of the quarter) to discuss your options. It’s best to discuss such high impact events during office hours.\nMidterm and project are required components of the class and cannot be excused. For any needs regarding these assignments you can discuss it with me in a timely manner."
+  },
+  {
+    "objectID": "specific-content/policies/03a-assessment.html",
+    "href": "specific-content/policies/03a-assessment.html",
+    "title": "IDS",
+    "section": "",
+    "text": "It is my intent to design assessments that are a source of intellectual curiosity, joy, and learning rather than a source of stress. Assessments serve the purpose of measuring how much you have learned (i.e. how much you have achieved of the course goals). I would recommend you to first focus on your learning, then grades will follow.\n\nIn-Class Quizzes\nIn-Class quizzes are opportunity to practice as you are learning during the lectures. The questions will be asked sporadically throughout the lectures. You can discuss quiz questions with your neighbors in class, check notes, use internet etc. You will be graded for participation, not for correctness. You need to be attending the lecture and respond to all questions in order to receive the participation point. If you are not participating in lecture or have someone else participate for quizzes on your behalf, this will be considered academic misconduct. Note that during week zero we will have online quizzes which will be graded for correctness.\n\n\nHomework Assignments\nAt the end of Wednesday after weekly topics are completed you will be assigned a homework on these topics. You will have until the following lecture to finish the homework assignments. In other words, homework assignments will be due at 11:00 am on Mondays. For homework assignments, you can use books and notes, talk to other people in your class, use online resources including generative AI however there are some limitations. See ?@sec-ai.\n\n\nMidterm Exam\nMidterm exam will be held in-person, in-class on Apr 29th at 11:00 am - 12:20 pm. You will work individually on the exam. It will be a closed-book exam. You will not need a calculator and thus you will not be allowed to use one.\n\n\nProject\nYou will complete a project with a team mostly in the second half of the quarter. The project will consist of hands-on data analysis. You will apply the methods learned in this course to answer a question(s) that interests you. The project will have multiple components starting in the second half of the quarter. Two of the many components of the project is the proposal and the presentation. You are expected to submit a proposal by May 8 at 5 pm and submit a final video presentation, along with the final state of data analysis by Tue, Jun 9 at 1:00 PM. You will notice that our allocated final exam time for this class is Tue, Jun 9, 1:30-3:30pm. Since we do not have a final exam, during this time, you will be assigned to watch three other groups’ videos and evaluate them. Note that if we notice a big discrepancy in the amount of team members amount of work, then we hold the right to assign different grades to different team members."
+  },
+  {
+    "objectID": "specific-content/policies/03b-weights.html",
+    "href": "specific-content/policies/03b-weights.html",
+    "title": "IDS",
+    "section": "",
+    "text": "Component\n\n\nWeight\n\n\n\n\n\n\nIn-Class Quizzes\n\n\n10%\n\n\n\n\nHomework Assignments\n\n\n20%\n\n\n\n\nMidterm Exam\n\n\n30%\n\n\n\n\nProject\n\n\n40%"
+  },
+  {
+    "objectID": "specific-content/readings/reading04a.html",
+    "href": "specific-content/readings/reading04a.html",
+    "title": "Reading for Lecture 4a",
+    "section": "",
+    "text": "Wilson, G., Bryan, J., Cranston, K., Kitzes, J., Nederbragt, L., & Teal, T. K. (2017). Good enough practices in scientific computing. PLoS computational biology, 13(6), e1005510."
+  },
+  {
+    "objectID": "specific-content/readings/reading02b.html",
+    "href": "specific-content/readings/reading02b.html",
+    "title": "Reading for Lecture 2b",
+    "section": "",
+    "text": "Hello Data Science - Chapter 4"
+  },
+  {
+    "objectID": "specific-content/readings/reading03a.html",
+    "href": "specific-content/readings/reading03a.html",
+    "title": "Reading for Lecture 3a",
+    "section": "",
+    "text": "Hello Data Science - Chapter 5"
+  },
+  {
+    "objectID": "specific-content/readings/reading01a.html",
+    "href": "specific-content/readings/reading01a.html",
+    "title": "Reading for Lecture 1a",
+    "section": "",
+    "text": "Hello Data Science - Chapter 1"
   },
   {
     "objectID": "specific-content/index/01b-course-goals.html",

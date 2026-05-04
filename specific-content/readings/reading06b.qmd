@@ -1,0 +1,8 @@
+---
+title: "OPTIONAL Reading for Lecture 6b"
+---
+
+
+- [ ] [Bayes Rules! book - Chapter 3](https://www.bayesrulesbook.com/chapter-3)
+
+- [ ] [Bayes Rules! book - Chapter 4](https://www.bayesrulesbook.com/chapter-4)
