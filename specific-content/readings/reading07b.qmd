@@ -1,0 +1,7 @@
+---
+title: "Reading for Lecture 7b"
+---
+
+
+- [ ] [OpenIntro IMS -Chapter 13](https://openintro-ims.netlify.app/foundations-mathematical)
+
